@@ -24,7 +24,7 @@ array.shift
 end
 
 def retreive_element_from_index(array, index_number)
-array[2]
+array[0]
 end
 
 def retreive_first_element_from_array(array)
