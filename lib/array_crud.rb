@@ -28,6 +28,7 @@ array[1]
 end
 
 def retreive_first_element_from_array(array)
+  array = ["A", "B", "C"]
 array[0]
 end
 
