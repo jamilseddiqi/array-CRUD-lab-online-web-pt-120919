@@ -28,7 +28,7 @@ array[1]
 end
 
 def retreive_first_element_from_array(array)
-x = array.count 
+x = array.count
 array[0]
 
 end
