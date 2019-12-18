@@ -29,7 +29,7 @@ end
 
 def retreive_first_element_from_array(array, index_number)
 
-x = array.index_number
+(array, 2)
 
 end
 
