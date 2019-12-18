@@ -1,20 +1,8 @@
-empty_array = []
 
-array = ["One", "Two", "Three"]
-
-array << "Four"
-
-array.push("Five")
-
-array.unshift("Six")
-
-array.pop
-
-array.shift
-array[2]
-array.index(2)
 
 # def create_an_empty_array
+
+array.new 
 #
 # end
 #
