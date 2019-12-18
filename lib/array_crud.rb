@@ -1,8 +1,10 @@
 
 
 # def create_an_empty_array
-
-array.new 
+array = []
+array.new
+array << ("element")
+array.shift 
 #
 # end
 #
