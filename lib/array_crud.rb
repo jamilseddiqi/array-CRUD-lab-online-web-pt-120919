@@ -27,9 +27,9 @@ def retreive_element_from_index(array, index_number)
 array[1]
 end
 
-def retreive_first_element_from_array(array)
-x = array.count
-array[0]
+def retreive_first_element_from_array(array, index_number)
+
+x = array.index_number
 
 end
 
